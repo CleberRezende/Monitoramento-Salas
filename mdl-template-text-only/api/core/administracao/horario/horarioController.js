@@ -11,7 +11,6 @@ module.exports = {
     excluirHorario
 };
 
-
 function inserirHorario(req, res) {
     const params = {
         idHorario: req.params.idHorario,
@@ -60,3 +59,4 @@ function excluirHorario(req, res) {
         res.status(httpCode).json(result);
     });
 }
+//

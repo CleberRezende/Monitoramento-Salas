@@ -1,7 +1,6 @@
 /**
  * Created by Cleber Spirlandeli on 04/07/2017.
  */
-
 const ProfessorRepository = require('./professorRepository.js');
 const waterfall = require('async-waterfall');
 

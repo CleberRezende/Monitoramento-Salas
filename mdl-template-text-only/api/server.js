@@ -1,6 +1,7 @@
 /**
  * Created by Cleber Spirlandeli on 04/07/2017.
  */
+
 module.exports = function () {
 
     let express = require('express');

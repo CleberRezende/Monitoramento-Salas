@@ -1,7 +1,6 @@
 /**
  * Created by Cleber Spirlandeli on 04/07/2017.
  */
-
 const LaboratorioCtrl = require('./../administracao/laboratorio/laboratorioController.js');
 
 module.exports = function (app) {

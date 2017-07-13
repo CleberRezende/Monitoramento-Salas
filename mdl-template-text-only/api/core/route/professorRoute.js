@@ -1,7 +1,6 @@
 /**
  * Created by Cleber Spirlandeli on 04/07/2017.
  */
-
 const ProfessorCtrl = require('./../seguranca/professor/professorController.js');
 
 module.exports = function (app) {

@@ -1,7 +1,6 @@
 /**
  * Created by Cleber Spirlandeli on 04/07/2017.
  */
-
 const HorarioCtrl = require('./../administracao/horario/horarioController.js');
 
 module.exports = function (app) {

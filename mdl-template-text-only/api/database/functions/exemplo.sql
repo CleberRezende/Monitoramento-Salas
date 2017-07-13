@@ -207,7 +207,6 @@ $$
 LANGUAGE plpgsql;
 
 
-
 SELECT seguranca.excluirFuncao('RecursosHumanos', 'ListarCargo');
 CREATE OR REPLACE FUNCTION RecursosHumanos.ListarCargo(pStatus   CHAR,
                                                        pPesquisa VARCHAR(200),
